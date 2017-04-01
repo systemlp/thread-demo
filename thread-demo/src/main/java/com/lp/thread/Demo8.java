@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 class UploadUser {
-    
+
     public static int total;
     public static int currIndex;
 
